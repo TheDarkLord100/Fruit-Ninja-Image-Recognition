@@ -1,0 +1,12 @@
+{
+    "left": 290, 
+    "top" : 172, 
+    "width": 1044, 
+    "height": 586,
+    "xSampling": 50,
+    "ySampling": 50,
+    "samplingSize" : 60,
+    "maxColorDiff" : 20,
+    "showSamplePoints" : false,
+    "frameRate" : 15
+}
